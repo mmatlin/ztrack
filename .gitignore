@@ -1,0 +1,7 @@
+# Compiled Python files
+*.py[cod]
+__pycache__/
+
+# Packages
+/*.egg-info
+/dist/
